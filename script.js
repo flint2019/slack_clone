@@ -89,9 +89,14 @@ window.addEventListener('scroll', function(e) {
     desktopNav.classList.remove('active')
     desktopLogoBlack.classList.remove('active')
     desktopLogo.classList.remove('active')
+    desktopBtn.classList.remove('active')
+    desktopBtnOutline.classList.remove('active')
   } else {
     desktopNav.classList.remove('active')
     desktopLogoBlack.classList.remove('active')
     desktopLogo.classList.remove('active')
+    desktopBtn.classList.remove('active')
+    desktopBtnOutline.classList.remove('active')
+    
   }
 })
