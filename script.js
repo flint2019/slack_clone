@@ -1,7 +1,7 @@
 console.log("working");
 
 const desktopNav = document.querySelector(".desktop-nav")
-const mediaQuery = window.matchMedia('(max-width: 599px)')
+const mediaQuery = window.matchMedia('(max-width: 700px)')
 const footer1 = document.querySelector(".footer1");
 const footer2 = document.querySelector(".footer2");
 const footer3 = document.querySelector(".footer3");
